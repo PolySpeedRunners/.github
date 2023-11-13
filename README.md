@@ -1,8 +1,5 @@
 <div align="center">
-    <a> <img src="https://img.shields.io/badge/skill%20issue-on-brightgreen"/> </a>
-    <br>
-    <a> <img src="https://img.shields.io/badge/es--lint-on-blueviolet"/> </a>
-    <a> <img src="https://img.shields.io/badge/based-always-blue"/> </a>
+    <a> <img src="https://img.shields.io/badge/status-on-brightgreen"/> </a>
     <h1>Welcome to Poly Speed Runners! 👋</h1>
     <h3>Archives of Polytechnique Montréal's Finest Works</h3>
 </div>
